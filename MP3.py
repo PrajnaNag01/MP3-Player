@@ -92,7 +92,7 @@ root.title('MP3 Player')
 root.minsize(300,300)
 
 
-image = Image.open(r"C:\Users\ekalv\Downloads\clef.ppm")
+image = Image.open(r"C:\Users\prajj\Downloads\clef.ppm")
 photo = ImageTk.PhotoImage(image)
 
 label1 = Label(image=photo)
